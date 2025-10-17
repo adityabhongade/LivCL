@@ -1,5 +1,5 @@
-# LivCL
-Liver fibrosis classification improved through Supervised Contrastive Learning.
+# LivSCP
+Liver fibrosis classification improved through Supervised Contrastive Pretraining.
 
 In data and compute-constrained situations,
 
